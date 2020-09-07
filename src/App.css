@@ -1,0 +1,22 @@
+nav{
+  background-color: darkslateblue;
+  
+}
+ul{
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  margin-top: 0px;
+}
+li{
+  margin: 20px;
+  color: white;
+  font-size: 22px;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+  font-weight: bold;
+}
